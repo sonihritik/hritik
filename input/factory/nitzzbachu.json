@@ -1,0 +1,9 @@
+{
+	"name": "nitzzbachu",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d3ce3573-4c9f-4632-96b1-ed1a0eb9ff51",
+		"tenantId": "c1ef404e-e969-4ae9-a555-1dbad21e687d"
+	}
+}
